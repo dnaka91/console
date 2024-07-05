@@ -411,7 +411,7 @@ dependencies = [
 
 [[package]]
 name = "console-subscriber"
-version = "0.3.0"
+version = "0.3.1"
 dependencies = [
  "console-api",
  "crossbeam-channel",
@@ -1843,7 +1843,7 @@ dependencies = [
 
 [[package]]
 name = "tokio-console"
-version = "0.1.11"
+version = "0.1.12"
 dependencies = [
  "clap",
  "clap_complete",

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 0.3.1 - (2024-07-05)
+
+
+### Added
+
+- Add `TOKIO_CONSOLE_BUFFER_CAPACITY`  env variable ([#568](https://github.com/tokio-rs/console/pull/568)) ([a6cf14b](https://github.com/tokio-rs/console/commit/a6cf14b370275367dcecf1191e60f0bd260250d8))
+
+
 ## console-subscriber-v0.3.0 - (2024-06-10)
 
 ### <a id = "0.3.0-breaking"></a>Breaking Changes

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 0.1.12 - (2024-07-05)
+
+
+### Fixed
+
+- Handle Windows path correctly ([#555](https://github.com/tokio-rs/console/pull/555)) ([6ad0def](https://github.com/tokio-rs/console/commit/6ad0def9c4ac3d4e85ad8b7247ca270ff07b45b8))
+
+
 ## tokio-console-v0.1.11 - (2024-06-10)
 
 ### Added
